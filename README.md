@@ -23,5 +23,5 @@ This project depends on the following libraries:
 After ensuring necessary packages have been installed you can run main.py to have the result.
 
 #example of results
-![image](http://github.com/Wxy-24/cell_segmentation/raw/master/img/segmentation_exmaple)
+![image](http://github.com/Wxy-24/cell_segmentation/raw/master/img/segmentation_exmaple.png)
 

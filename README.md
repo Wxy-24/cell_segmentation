@@ -8,6 +8,7 @@ The original dataset is available from IEEE ISBI challenge 2012.
 It has been downloaded and pre-processed and you can find them in data folder
 
 #segmentation algorithm
+
 1.deep learning prediction
 ![image](http://github.com/Wxy-24/cell_segmentation/raw/master/img/unet_model_architecture.png)
 

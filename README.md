@@ -3,12 +3,12 @@
 This project compares two different methods on an automated cell segmentation including conventional image processing method based on thresholding and morphological operation as well as overwhelming deep learning method based on u-net architecture.
 (The architecture was inspired by http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
 
-#data
+# data
 The original dataset is available from IEEE ISBI challenge 2012.
 
 It has been downloaded and pre-processed and you can find them in data folder
 
-#segmentation algorithm
+# segmentation algorithm
 
 1.deep learning prediction
 
@@ -18,7 +18,7 @@ It has been downloaded and pre-processed and you can find them in data folder
 
 ![image](http://github.com/Wxy-24/cell_segmentation/raw/master/img/thresholding.png)
 
-#HOW to use?
+# HOW to use?
 
 This project depends on the following libraries:
 
@@ -30,7 +30,7 @@ This project depends on the following libraries:
 
 After ensuring necessary packages have been installed you can run main.py to have the result.
 
-#example of results
+# example of results
 
 ![image](http://github.com/Wxy-24/cell_segmentation/raw/master/img/segmentation_exmaple.png)
 

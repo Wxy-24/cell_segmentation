@@ -13,10 +13,12 @@ It has been downloaded and pre-processed and you can find them in data folder
 1.deep learning prediction
 
 ![image](http://github.com/Wxy-24/cell_segmentation/raw/master/img/unet_model_architecture.png)
+![](http://github.com/Wxy-24/cell_segmentation/raw/master/img/unet_model_architecture.png)  
 
 2.Image processing based on thresholding
 
 ![image](http://github.com/Wxy-24/cell_segmentation/raw/master/img/thresholding.png)
+![](http://github.com/Wxy-24/cell_segmentation/raw/master/img/thresholding.png)  
 
 # HOW to use?
 
